@@ -4,8 +4,8 @@ from setuptools import setup,find_packages
 #     long_description = f.read()
 
 setup(
-   name='multimedia_streaming',
-   version='1.0',
+   name='multimedia',
+   version='',
    description='A useful module',
    license="MIT",
    long_description="multimedia streaming",
