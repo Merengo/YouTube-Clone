@@ -4,7 +4,7 @@ from setuptools import setup,find_packages
 #     long_description = f.read()
 
 setup(
-   name='youtube',
+   name='multimedia_streaming',
    version='1.0',
    description='A useful module',
    license="MIT",
