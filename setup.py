@@ -15,7 +15,6 @@ setup(
    packages=find_packages(),  #same as name
    install_requires=[], #external packages as dependencies
    scripts=[
-            'scripts/cool',
-            'scripts/skype',
+           
            ]
 )
