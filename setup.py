@@ -8,7 +8,7 @@ setup(
    version='1.0',
    description='A useful module',
    license="MIT",
-   long_description=long_description,
+   long_description="multimedia streaming",
    author='Man Foo',
    author_email='marwamerengo@gmail.com',
    url="",
